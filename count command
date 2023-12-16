@@ -1,0 +1,2 @@
+MATCH(n:Label)
+RETURN COUNT(n)AS nodeCount;
